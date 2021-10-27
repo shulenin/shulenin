@@ -2,7 +2,6 @@
 Hi! I'm backend developer.</br>
 To contact me:</br>
 </h1>
-<br>
 <b> E-mail:</b> dima.shulenin@mail.ru;</br>
 <b> Icloud:</b> dmitry.shulenin@icloud.com;</br>
 <b> Telegram:</b> d_shulenin;</br>
